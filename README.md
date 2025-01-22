@@ -44,36 +44,6 @@ Sigue los pasos para ejecutar este proyecto localmente:
    npm start
    ```
 
-## Capturas de pantalla
-
-### Pantalla principal
-![Pantalla principal](https://via.placeholder.com/800x400.png?text=Pantalla+Principal)
-
-### Lista de películas
-![Lista de películas](https://via.placeholder.com/800x400.png?text=Lista+de+Pel%C3%ADculas)
-
-### Formulario para agregar contenido
-![Formulario para agregar contenido](https://via.placeholder.com/800x400.png?text=Formulario+de+Contenido)
-
-## Contribuciones
-
-Si deseas contribuir a este proyecto, por favor sigue estos pasos:
-
-1. Realiza un fork del repositorio.
-
-2. Crea una nueva rama para tu función o corrección de errores:
-
-   ```bash
-   git checkout -b nombre-de-tu-rama
-   ```
-
-3. Realiza los cambios necesarios y haz commit:
-
-   ```bash
-   git commit -m "Descripción de los cambios"
-   ```
-
-4. Envía un pull request describiendo tus modificaciones.
 
 ## Licencia
 
